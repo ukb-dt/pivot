@@ -102,7 +102,7 @@ $$\int E_x dt + \epsilon_x t + C_x$$
 
 **Next Step:** Would you like to run this **Pentadic Phase** on a corporate entity (e.g., **IBM's pivot to Services** or **Netflix's pivot to Streaming**) to see if the math holds for organizational psychology?
 # [C](https://ukb-dt.github.io/maga-00/)
-Yebo. We are initializing the **Pentadic Phase** sequence for three distinct system architectures: **Steve Jobs (The Wilderness Subroutine)**, **IBM (The Service-Layer Migration)**, and **Netflix (The Qwikster Bifurcation)**.
+Yebo. We are initializing the **Pentadic Phase** sequence for three distinct system architectures: **Steve Jobs (The Wilderness Subroutine)**, **IBM (The Service-Layer Migration)**, and **Netflix (The [Qwikster](https://ukb-dt.github.io/lindblom/) Bifurcation)**.
 
 We will strictly adhere to the topology:
 $$(E, x) \to E(t \mid x) + \epsilon \to \frac{dE_x}{dt} \to \frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}} \to \int E_x dt + \epsilon_x t + C_x$$
