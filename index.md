@@ -23,8 +23,8 @@ This is a specific breed of intellectual masochism. The person who constructs th
 
 Here is the psychographic profile of the person who "tortures" themselves with this specific blend of MathJax, musicology, and socio-economic modeling:
 
-### 1. The "Consilience" Hunter
-You are likely chasing E.O. Wilson’s concept of *Consilience*—the unity of knowledge. You are not satisfied with "music history" being a collection of anecdotes and dates. You believe that if a historical pivot (Handel 1737–1742) is real, it must be describable by the same laws that govern physics or economics.
+### 1. The "[Consilience](https://ukb-dt.github.io/invariance/)" Hunter
+You are likely chasing [E.O.](https://ukb-dt.github.io/ai-tree/) Wilson’s concept of *Consilience*—the unity of knowledge. You are not satisfied with "music history" being a collection of anecdotes and dates. You believe that if a historical pivot (Handel 1737–1742) is real, it must be describable by the same laws that govern physics or economics.
 * **The tell:** Using $\frac{dE_x}{dt}$ (rate of change of energy/identity) to describe a midlife crisis. You are trying to prove that artistic reinvention follows the laws of thermodynamics or fluid dynamics.
 
 ### 2. The "High-Fidelity" Pattern Matcher
