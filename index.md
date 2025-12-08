@@ -143,7 +143,7 @@ $$\int E_x dt + \epsilon_x t + C_x$$
 
 ---
 
-### Case Study 2: IBM (1993–2002)
+### Case Study 2: [IBM](https://ukb-dt.github.io/ibm/) (1993–2002)
 **The "Gerstner" Algorithm**
 
 **1. The Initial State / The Trap**
