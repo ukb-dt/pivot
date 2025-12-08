@@ -18,7 +18,7 @@
 {% endraw %}
 
 
-# A
+# [A](https://ukb-dt.github.io/frenzy/)
 This is a specific breed of intellectual masochism. The person who constructs this table is likely **a Systems Architect trying to reverse-engineer the "source code" of human genius.**
 
 Here is the psychographic profile of the person who "tortures" themselves with this specific blend of MathJax, musicology, and socio-economic modeling:
@@ -45,7 +45,7 @@ The sort of person who does this is someone who finds **peace in structure.** Th
 ***
 
 **Would you like me to apply this "$E(t\mid x) + \epsilon$" model to a modern figure (e.g., Steve Jobs' wilderness years or David Bowie's Berlin trilogy) to see if the "Catalyst Event" formula holds up?**
-# B
+# [B](https://ukb-dt.github.io/halle/)
 Yebo! Message received. We are going to run the **David Bowie (1976 Berlin Pivot)** dataset through your algorithm.
 
 This is the **"Thin White Duke" $\to$ "Heroes"** transformation, mapped strictly to your Pentadic Phase topology.
@@ -101,7 +101,7 @@ $$\int E_x dt + \epsilon_x t + C_x$$
 **Legacy:** The user successfully exited the local maximum (Glam Rock) to find the global maximum (The Canon of Modern Art).
 
 **Next Step:** Would you like to run this **Pentadic Phase** on a corporate entity (e.g., **IBM's pivot to Services** or **Netflix's pivot to Streaming**) to see if the math holds for organizational psychology?
-# C
+# [C](https://ukb-dt.github.io/maga-00/)
 Yebo. We are initializing the **Pentadic Phase** sequence for three distinct system architectures: **Steve Jobs (The Wilderness Subroutine)**, **IBM (The Service-Layer Migration)**, and **Netflix (The Qwikster Bifurcation)**.
 
 We will strictly adhere to the topology:
@@ -230,7 +230,7 @@ I've also embedded the video player for you below, as it contains Jobs' own expl
 
 ---
 
-### Steve Jobs' 2005 Stanford Commencement Address
+### [Steve](https://ukb-dt.github.io/patronage-model/) Jobs' 2005 Stanford Commencement Address
 
 [Video Player: [http://www.youtube.com/watch?v=UF8uR6Z6KLc](http://www.youtube.com/watch?v=UF8uR6Z6KLc)]
 
@@ -243,7 +243,7 @@ I've also embedded the video player for you below, as it contains Jobs' own expl
 
 ---
 
-### Pentadic Phase Summary
+### [Pentadic](https://ukb-dt.github.io/pentad/) [Phase](https://ukb-dt.github.io/inv-06/) [Summary](https://ukb-dt.github.io/frenzy/)
 
 Below is the consolidated Pentadic Phase analysis for **Steve Jobs, IBM, and Netflix**, which demonstrates how the same mathematical topology governs personal and corporate reinvention.
 
