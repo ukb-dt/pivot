@@ -139,7 +139,7 @@ $$\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$$
 $$\int E_x dt + \epsilon_x t + C_x$$
 * **The Integral:** The Return (1997). He integrates NeXTSTEP into Apple to create macOS X.
 * **$\epsilon_x t$ (The Vector):** The "Digital Hub" strategy (iPod, iPhone).
-* **$C_x$ (The Spirit):** The "Philosopher King." The bratty founder is replaced by the [black-turtlenecked sage](https://ukb-dt.github.io/ilya-z/). The system is now stable, closed, and infinitely profitable.
+* **$C_x$ (The Spirit):** The "Philosopher King." The [bratty](https://ukb-dt.github.io/faust-00/) founder is replaced by the [black-turtlenecked sage](https://ukb-dt.github.io/ilya-z/). The system is now stable, closed, and infinitely profitable.
 
 ---
 
