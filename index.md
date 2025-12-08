@@ -78,7 +78,7 @@ $$\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$$
 * **The Square Root of Acceleration:** The sheer terror of the void. The "±" represents the oscillation between genius and total failure in the Hansa Studios. This is the **friction of re-entry** into reality. High bandwidth demand; the brain is rewiring its reward pathways from "applause" to "texture."
 
 
-<div style="width:50%; max-width:50%; overflow:hidden;">
+<div style="width:100%; max-width:100%; overflow:hidden;">
   <img 
     src="trig/governor.jpeg"
     alt="governor"
