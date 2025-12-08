@@ -232,7 +232,14 @@ I've also embedded the video player for you below, as it contains Jobs' own expl
 
 ### [Steve](https://ukb-dt.github.io/patronage-model/) Jobs' 2005 Stanford Commencement Address
 
-[Video Player: [http://www.youtube.com/watch?v=UF8uR6Z6KLc](http://www.youtube.com/watch?v=UF8uR6Z6KLc)]
+<iframe width="560" height="315"
+    src="https://www.youtube.com/embed/UF8uR6Z6KLc"
+    title="Steve Jobs' 2005 Stanford Commencement Address"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
+
 
 **The Key Segment (Love and Loss) from the Transcript:**
 
@@ -256,11 +263,4 @@ Below is the consolidated Pentadic Phase analysis for **Steve Jobs, IBM, and Net
 | **5. The Integration / The New Constant** | $\mathbf{\int E_x dt + \epsilon_x t + C_x}$ | **The Return to Apple (1997).** He integrates the code learned at NeXT (macOS) and the patient leadership of Pixar. The **constant** ($\mathbf{C_x}$) is **Integrated Simplicity**. | **IBM Global Services.** Summation of assets integrated with a customer-centric focus. The **constant** ($\mathbf{C_x}$) is **The Enterprise Integrator**. | **The Algorithm as Auteur.** Summation of content rights, user data, and production capability. The **constant** ($\mathbf{C_x}$) is **The Global Studio Network**. |
 
 
-<iframe width="560" height="315"
-    src="https://www.youtube.com/embed/UF8uR6Z6KLc"
-    title="Steve Jobs' 2005 Stanford Commencement Address"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
 
