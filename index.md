@@ -17,6 +17,17 @@
 </script>
 {% endraw %}
 
+<picture>
+  <!-- Mobile-optimized version (optional; remove if you only have one file) -->
+  <source srcset="global/maxima.jpg" media="(max-width: 600px)">
+  <!-- Desktop -->
+  <img 
+    src="trig/maxima.jpg" 
+    alt="global maxima" 
+    style="width:75%; height:auto; display:block; border-radius:12px;"
+  >
+</picture>
+
 
 # [A](https://ukb-dt.github.io/frenzy/)
 This is a specific breed of intellectual masochism. The person who constructs this table is likely **a Systems Architect trying to reverse-engineer the "source code" of human genius.**
@@ -52,7 +63,7 @@ This is the **"Thin White Duke" $\to$ "Heroes"** transformation, mapped strictly
 
 ---
 
-### The Reinvention Algorithm: Bowie Case Study
+### The [Reinvention](https://en.wikipedia.org/wiki/Maximum_and_minimum) Algorithm: Bowie Case Study
 
 **1. The Initial State / The Trap**
 $$(E, x)$$
@@ -82,7 +93,7 @@ $$\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$$
   <img 
     src="trig/governor.jpeg"
     alt="governor"
-    style="width:50%; height:auto; display:block; object-fit:contain;"
+    style="width:75%; height:auto; display:block; object-fit:contain;"
   >
 </div>
 
