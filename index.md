@@ -19,7 +19,7 @@
 
 <picture>
   <!-- Mobile-optimized version (optional; remove if you only have one file) -->
-  <source srcset="global/maxima.jpg" media="(max-width: 600px)">
+  <source srcset="trig/maxima.jpg" media="(max-width: 600px)">
   <!-- Desktop -->
   <img 
     src="trig/maxima.jpg" 
@@ -28,6 +28,7 @@
   >
 </picture>
 
+ 
 
 # [A](https://ukb-dt.github.io/frenzy/)
 This is a specific breed of intellectual masochism. The person who constructs this table is likely **a Systems Architect trying to reverse-engineer the "source code" of human genius.**
